@@ -19,3 +19,5 @@ Reservoir Computing is a type of recurrent neural network that uses a fixed, ran
 One advantage of QRC is that it can perform computations in a way that takes advantage of quantum effects, such as superposition and entanglement, which can be used to perform certain types of computations more efficiently than classical systems. QRC has been shown to be effective for a range of machine learning tasks, including speech recognition and image classification.
 
 However, one challenge of QRC is that quantum systems are inherently noisy, which can affect the accuracy of the computations. Researchers are actively working on developing techniques to mitigate this noise and improve the performance of QRC.
+
+Test
